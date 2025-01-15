@@ -1,0 +1,11 @@
+certifi==2024.12.14
+charset-normalizer==3.4.1
+idna==3.10
+numpy==1.24.4
+pillow==10.4.0
+requests==2.32.3
+torch==1.13.1+cu117
+torchaudio==0.13.1+cu117
+torchvision==0.14.1+cu117
+typing_extensions==4.12.2
+urllib3==2.2.3
